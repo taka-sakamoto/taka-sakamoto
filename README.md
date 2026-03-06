@@ -1,14 +1,14 @@
 ## About Me
-iOSエンジニアを目指して学習しています。
+iOSエンジニアを目指して学習しています。  
 Swift / SwiftUI を中心にポートフォリオを作成しています。
 
-過去にはSpriteKitを使用したiOS向けカジュアルゲームを開発し、
+過去にはSpriteKitを使用したiOS向けカジュアルゲームを開発し、  
 App Storeでリリースした経験があります。
 
-現在は
-・SwiftUIによるiOSアプリUIサンプル
-・Spring BootによるAPI開発
-などをGitHubで公開しています。
+現在は以下の内容をGitHubで公開しています。  
+・SwiftUIによるiOSアプリUIサンプル  
+・Spring BootによるAPI開発  
+
 
 ## Skills
 Swift / SwiftUI  
