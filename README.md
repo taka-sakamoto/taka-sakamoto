@@ -26,5 +26,5 @@ https://github.com/taka-sakamoto/springboot-user-api
 SwiftUI CatImageApp  
 https://github.com/taka-sakamoto/SwiftUI-CatImageApp
 
-SwiftUI Todo App
+SwiftUI Todo App  
 https://github.com/taka-sakamoto/SwiftUI-Todo-App
