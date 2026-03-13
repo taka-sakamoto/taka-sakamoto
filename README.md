@@ -1,6 +1,8 @@
 ## About Me
 iOSエンジニアを目指して学習しています。  
 Swift / SwiftUI を中心にポートフォリオを作成しています。
+既存コードの解析・改修経験があり、  
+現在はJava / Spring BootのWebアプリ開発にも取り組んでいます。  
 
 過去にはSpriteKitを使用したiOS向けカジュアルゲームを開発し、  
 App Storeでリリースした経験があります。
@@ -12,19 +14,28 @@ App Storeでリリースした経験があります。
 
 ## Skills
 Swift / SwiftUI  
+Objective-C（既存コード解析・改修）  
 Java / Spring Boot  
 Xcode / Git / GitHub
 
 ## Portfolio
+### SwiftUI Todo App  
+SwiftUIで作成したシンプルなTodo管理アプリ   
+- Todo追加 / 削除 / 完了チェック  
+- データ保存（UserDefaults）   
+https://github.com/taka-sakamoto/SwiftUI-Todo-App  
 
-SwiftUI Settings Sample  
+### SwiftUI Cat API App
+TheCatAPIを利用した画像取得アプリ  
+https://github.com/taka-sakamoto/SwiftUI-CatImageApp  
+
+### SwiftUI Settings Sample
+iOSアプリの設定画面を想定したUIサンプル  
 https://github.com/taka-sakamoto/SwiftUI-Settings-Sample
 
-Spring Boot User API  
+### Spring Boot User API   
 https://github.com/taka-sakamoto/springboot-user-api  
 
-SwiftUI CatImageApp  
-https://github.com/taka-sakamoto/SwiftUI-CatImageApp
 
-SwiftUI Todo App  
-https://github.com/taka-sakamoto/SwiftUI-Todo-App
+
+
