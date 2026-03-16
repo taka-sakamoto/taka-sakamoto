@@ -33,6 +33,10 @@ https://github.com/taka-sakamoto/SwiftUI-CatImageApp
 SwiftUIでログイン画面の基本構成を実装したサンプルアプリ  
 https://github.com/taka-sakamoto/swiftui-login-sample
 
+###  SwiftUI Search Sample
+SwiftUIで作った 検索バー付き画像検索アプリ  
+https://github.com/taka-sakamoto/SwiftUI-Search-Sample
+
 ### SwiftUI Settings Sample
 iOSアプリの設定画面を想定したUIサンプル  
 https://github.com/taka-sakamoto/SwiftUI-Settings-Sample
