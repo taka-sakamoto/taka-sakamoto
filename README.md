@@ -41,7 +41,8 @@ https://github.com/taka-sakamoto/SwiftUI-Search-Sample
 iOSアプリの設定画面を想定したUIサンプル  
 https://github.com/taka-sakamoto/SwiftUI-Settings-Sample
 
-### Spring Boot User API   
+### Spring Boot User API 
+Spring Boot + JWT 認証を使ったユーザー管理 API  
 https://github.com/taka-sakamoto/springboot-user-api  
 
 
