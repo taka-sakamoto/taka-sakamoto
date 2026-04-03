@@ -23,7 +23,11 @@ Xcode / Git / GitHub
 SwiftUIで作成したシンプルなTodo管理アプリ   
 - Todo追加 / 削除 / 完了チェック  
 - データ保存（UserDefaults）   
-https://github.com/taka-sakamoto/SwiftUI-Todo-App  
+https://github.com/taka-sakamoto/SwiftUI-Todo-App
+
+###  SwiftUI Search Sample
+SwiftUIで作った 検索バー付き画像検索アプリ  
+https://github.com/taka-sakamoto/SwiftUI-Search-Sample
 
 ### SwiftUI Cat API App
 TheCatAPIを利用した画像取得アプリ  
@@ -32,10 +36,6 @@ https://github.com/taka-sakamoto/SwiftUI-CatImageApp
 ### SwiftUI Login Sample  
 SwiftUIでログイン画面の基本構成を実装したサンプルアプリ  
 https://github.com/taka-sakamoto/swiftui-login-sample
-
-###  SwiftUI Search Sample
-SwiftUIで作った 検索バー付き画像検索アプリ  
-https://github.com/taka-sakamoto/SwiftUI-Search-Sample
 
 ### SwiftUI Settings Sample
 iOSアプリの設定画面を想定したUIサンプル  
