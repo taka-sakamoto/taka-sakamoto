@@ -30,7 +30,7 @@ SwiftUIで作った 検索バー付き画像検索アプリ
 https://github.com/taka-sakamoto/SwiftUI-Search-Sample
 
 ### Metal Particle
-Metalを使用したパーティクルのサンプルアプリ
+Metalを使用したパーティクルのサンプルアプリ  
 https://github.com/taka-sakamoto/metal-particle-explosion
 
 ### SwiftUI Cat API App
