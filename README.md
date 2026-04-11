@@ -29,6 +29,10 @@ https://github.com/taka-sakamoto/SwiftUI-Todo-App
 SwiftUIで作った 検索バー付き画像検索アプリ  
 https://github.com/taka-sakamoto/SwiftUI-Search-Sample
 
+### Metal Particle
+Metalを使用したパーティクルのサンプルアプリ
+https://github.com/taka-sakamoto/metal-particle-explosion
+
 ### SwiftUI Cat API App
 TheCatAPIを利用した画像取得アプリ  
 https://github.com/taka-sakamoto/SwiftUI-CatImageApp  
