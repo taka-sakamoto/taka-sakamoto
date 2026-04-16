@@ -21,7 +21,7 @@ Xcode / Git / GitHub
 ## Portfolio
 
 ### Metal Image Filter App
-MetalとSwiftUIで作成した画像加工アプリ  
+MetalとSwiftUIで作成した画像フィルターアプリ  
 https://github.com/taka-sakamoto/metal-image-filter
 
 ### SwiftUI Todo App  
