@@ -19,6 +19,11 @@ Java / Spring Boot
 Xcode / Git / GitHub
 
 ## Portfolio
+
+### Metal Image Filter App
+MetalとSwiftUIで作成した画像加工アプリ  
+https://github.com/taka-sakamoto/metal-image-filter
+
 ### SwiftUI Todo App  
 SwiftUIで作成したシンプルなTodo管理アプリ   
 - Todo追加 / 削除 / 完了チェック  
