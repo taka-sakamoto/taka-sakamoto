@@ -51,7 +51,7 @@ iOSアプリの設定画面を想定したUIサンプル
 https://github.com/taka-sakamoto/SwiftUI-Settings-Sample
 
 ### Spring Boot User Management JET
-Spring Boot を使用した ユーザー管理・施設予約管理システム  
+Spring Boot + Java 25 LTS / JWT 認証を用いたユーザー管理・予約管理システム  
 https://github.com/taka-sakamoto/springboot-user-management-jwt
 
 ### Spring Boot User API 
