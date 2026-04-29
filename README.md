@@ -21,7 +21,7 @@ Xcode / Git / GitHub
 ## Portfolio
 
 ### SwiftUI Metal Camera Filter
-MetalとSwiftUIを使用して作ったリアルタイムカメラフィルターアプリ
+MetalとSwiftUIを使用して作ったリアルタイムカメラフィルターアプリ  
 https://github.com/taka-sakamoto/SwiftUI-Metal-Camera-Filter  
 
 ### Metal Image Filter App
