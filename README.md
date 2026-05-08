@@ -20,6 +20,10 @@ Xcode / Git / GitHub
 
 ## Portfolio
 
+### SwiftUI Realtime SNS
+SwiftUIとFirebaseで作成したリアルタイム写真共有SNSアプリ  
+https://github.com/taka-sakamoto/SwiftUI-Realtime-SNS  
+
 ### SwiftUI Metal Camera Filter
 MetalとSwiftUIを使用して作ったリアルタイムカメラフィルターアプリ  
 https://github.com/taka-sakamoto/SwiftUI-Metal-Camera-Filter  
@@ -30,8 +34,6 @@ https://github.com/taka-sakamoto/metal-image-filter
 
 ### SwiftUI Todo App  
 SwiftUIで作成したシンプルなTodo管理アプリ   
-- Todo追加 / 削除 / 完了チェック  
-- データ保存（UserDefaults）   
 https://github.com/taka-sakamoto/SwiftUI-Todo-App
 
 ###  SwiftUI Search Sample
