@@ -25,7 +25,7 @@ SwiftUIとFirebaseで作成したリアルタイム写真共有SNSアプリ
 https://github.com/taka-sakamoto/SwiftUI-Realtime-SNS  
 
 ### SwiftUI Metal Camera Filter
-MetalとSwiftUIを使用して作ったリアルタイムカメラフィルターアプリ  
+Metalによる低レイヤーな画像・リアルタイムカメラ描画制御の実装サンプルです
 https://github.com/taka-sakamoto/SwiftUI-Metal-Camera-Filter  
 
 ### Metal Image Filter App
