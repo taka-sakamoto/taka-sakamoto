@@ -11,6 +11,7 @@ App Storeでリリースした経験があります。
 ・SwiftUIによるiOSアプリUIサンプル  
 ・Spring BootによるAPI開発  
 
+https://findy-code.io/skills-share/7VJe_fboBmPRJ  
 
 ## Skills
 Swift / SwiftUI  
