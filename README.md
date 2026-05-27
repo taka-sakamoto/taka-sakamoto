@@ -22,7 +22,7 @@ Xcode / Git / GitHub
 ## Portfolio
 
 ### SwiftUI Realtime SNS
-SwiftUIとFirebaseで作成したリアルタイム写真共有SNSアプリ  
+SwiftUI、MetalとFirebaseで作成したリアルタイム写真共有SNSアプリ  
 https://github.com/taka-sakamoto/SwiftUI-Realtime-SNS  
 
 ### SwiftUI Metal Camera Filter
