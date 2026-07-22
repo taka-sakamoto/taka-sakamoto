@@ -1,7 +1,7 @@
 ## About Me
-iOSエンジニアを目指して学習しています。  
+ 
 Swift / SwiftUI を中心にポートフォリオを作成しています。  
-既存コードの解析・改修の実務経験があり、  
+既存コードの解析・改修(Objective-C→Swift)の実務経験があり、  
 現在はSwiftUI & Metalの開発に取り組んでいます。  
 また、Java / Spring BootのWebアプリ開発もしています。  
 
